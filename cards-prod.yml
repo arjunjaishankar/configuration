@@ -1,0 +1,14 @@
+
+
+
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to the Cards PROD Service!"
+  contactDetails:
+    name: "Thomas"
+    email: "thomas@gmail.com"
+  onCallSupport:
+    -(555) 555-1234
+    -(555) 555-5678
