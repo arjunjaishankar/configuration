@@ -8,7 +8,7 @@ accounts:
   message: "Welcome to the accounts PROD Service!"
   contactDetails:
     name: "Thomas"
-    email: "3d3855f4dbd003d213195d03f990c25732725470e19ae77b8279298367d1253b4dc5872787e2d21d27b4f47fdcdde028"
+    email: "{cipher}3d3855f4dbd003d213195d03f990c25732725470e19ae77b8279298367d1253b4dc5872787e2d21d27b4f47fdcdde028"
   onCallSupport:
     -(555) 555-1234
     -(555) 555-5678
