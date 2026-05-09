@@ -5,7 +5,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to the Cards production Service!"
+  message: "Welcome to the Cards webhook Service!"
   contactDetails:
     name: "Thomas"
     email: "thomas@gmail.com"
