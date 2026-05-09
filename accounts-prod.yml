@@ -5,7 +5,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to the accounts prod Service!"
+  message: "Welcome to the accounts production Service!"
   contactDetails:
     name: "Thomas"
     email: "{cipher}3d3855f4dbd003d213195d03f990c25732725470e19ae77b8279298367d1253b4dc5872787e2d21d27b4f47fdcdde028"
